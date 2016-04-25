@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 /**
  * Problem num = 1463
+ * Memory : 22432KB, time : 156ms, code length : 804b
  */
 
 public class Main {
