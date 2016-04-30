@@ -4,6 +4,7 @@ Baekjoon Online Judge
 # Solved Problems
 - [1463](https://www.acmicpc.net/problem/1463)
 - [1753](https://www.acmicpc.net/problem/1753)
+- [1916](https://www.acmicpc.net/problem/1916)
 - [2178](https://www.acmicpc.net/problem/2178)
 - [2816](https://www.acmicpc.net/problem/2816)
 - [2857](https://www.acmicpc.net/problem/2857)
